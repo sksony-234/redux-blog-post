@@ -1,0 +1,25 @@
+.add-user{
+  text-align: center;
+  margin-top: 30px;
+}
+
+.home{
+  padding:10px 50px;
+}
+.post-list{
+  display:flex;
+}
+
+.card-item{
+  margin:10px 5px;
+  transition:all 0.2s ease-in-out;
+}
+
+.card-item:hover{
+  transform:scale(1.02)
+}
+
+a{
+  text-decoration:none;
+  color:#fff;
+}

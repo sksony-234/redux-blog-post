@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Rohan Pandey",
+      "email": "rohan@gmail.com",
+      "contact": "9955323423",
+      "title": "New Research in field of space Universe",
+      "body": "Assam: There's something special about Riya Agarwal, a student at Guwahati-based school, Sanskriti The Gurukul . Riya has topped the country’s ISC exams with 99.75%. Unlike previous high scorers, this ISC 2023 exam winner has already received offers from five UK universities, including the London School of Economics and University College London."
+    },
+    {
+      "id": 3,
+      "name": "new post",
+      "email": "poster@gmail.com",
+      "contact": "989723487",
+      "title": "New Research in field of space Universe",
+      "body": "Assam: There's something special about Riya Agarwal, a student at Guwahati-based school, Sanskriti The Gurukul . Riya has topped the country’s ISC exams with 99.75%. Unlike previous high scorers, this ISC 2023 exam winner has already received offers from five UK universities, including the London School of Economics and University College London."
+    },
+    {
+      "name": "siddhu",
+      "email": "sidd@gmail.com",
+      "contact": "998238947843",
+      "title": "the global warming",
+      "body": "Assam: There's something special about Riya Agarwal, a student at Guwahati-based school, Sanskriti The Gurukul . Riya has topped the country’s ISC exams with 99.75%. Unlike previous high scorers, this ISC 2023 exam winner has already received offers from five UK universities, including the London School of Economics and University College London.",
+      "id": 4
+    }
+  ]
+}
